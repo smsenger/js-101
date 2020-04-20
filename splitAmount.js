@@ -33,6 +33,8 @@ function tipCalc(bill, service, split) {
     }
 }
 
+
+
 tipCalc(100, "good", 2)
 tipCalc(100, "fair", 2)
 tipCalc(100, "bad", 2)
